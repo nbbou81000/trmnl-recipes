@@ -44,7 +44,7 @@ async function main() {
   const totalConnections = recipes.reduce((sum, r) => sum + installs(r), 0);
 
   const toc = recipes
-    .map((r) => `[![Icon](${r.icon_url})](#${slugify(r.name)}) [${r.name}](#${slugify(r.name)})`)
+    .map((r) => `[${icon(r, 20)}](#${slugify(r.name)}) [${r.name}](#${slugify(r.name)})`)
     .join(" &nbsp;·&nbsp; ");
 
   const cards = recipes.map(renderCard).join("\n\n");
@@ -82,6 +82,14 @@ function description(r) {
   return r?.author_bio?.description ?? "";
 }
 
+function trmnlShowBadge(recipeId) {
+  return `https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge`;
+}
+
+function icon(r, size = 28) {
+  return `<img src="${r.icon_url}" width="${size}" height="${size}" style="border-radius:6px;vertical-align:middle;">`;
+}
+
 function renderCard(r) {
   const anchor = slugify(r.name);
   const connBadge = shieldsBadge("connections", installs(r), "34a853");
@@ -89,13 +97,13 @@ function renderCard(r) {
   const screenshot = r.screenshot_url
     ? `[![Screenshot](${r.screenshot_url})](${r.screenshot_url})`
     : "";
-  return `## <a id="${anchor}"></a>![Icon](${r.icon_url}) ${r.name}
+  return `## <a id="${anchor}"></a>${icon(r, 32)} ${r.name}
 
 [![Connections](${connBadge})](https://trmnl.com/recipes/${r.id}) [![Forks](${forksBadge})](https://trmnl.com/recipes/${r.id})
 
 ${description(r)}
 
-[View recipe on TRMNL](https://trmnl.com/recipes/${r.id})
+[![Show it on TRMNL](${trmnlShowBadge(r.id)})](https://trmnl.com/recipes/${r.id})
 
 ${screenshot}`;
 }
