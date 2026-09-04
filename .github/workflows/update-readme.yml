@@ -1,0 +1,42 @@
+name: Update README (TRMNL recipe stats)
+
+on:
+  schedule:
+    # Toutes les 6h - ajuste si tu veux plus/moins "temps réel"
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate-readme.mjs"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Générer le README depuis l'API TRMNL
+        env:
+          TRMNL_USER_ID: "40325"
+          AUTHOR_NAME: "Nico"
+        run: node scripts/generate-readme.mjs
+
+      - name: Commit si changement
+        run: |
+          git config user.name "trmnl-recipes-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "Rien à committer, README déjà à jour."
+          else
+            git commit -m "chore: update recipe stats [skip ci]"
+            git push
+          fi
