@@ -1,7 +1,7 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-5-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-58-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Total Connections](https://img.shields.io/badge/connections-59-34a853)](https://trmnl.com/recipes?user_id=40325)
 [![Last update](https://img.shields.io/badge/updated-2026--09--05-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
@@ -22,7 +22,7 @@ Display the oil prices every 30 minutes
 
 ## <a id="souvenir-map"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/4z4kwnm17jdcaaoa88p11ary071s" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Souvenir map
 
-[![Connections](https://img.shields.io/badge/connections-11-34a853)](https://trmnl.com/recipes/387251) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/387251)
+[![Connections](https://img.shields.io/badge/connections-12-34a853)](https://trmnl.com/recipes/387251) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/387251)
 
 Souvenir Map renders a poster-style, line-art street map of a random city somewhere in the world, picked fresh every refresh from a dataset of ~34,000 cities. Map geometry comes live from OpenStreetMap. To complement the plugin, I created a small webpage displaying a map of all the cities that have appeared so far, along with various statistics : <a href="https://nbbou81000.github.io/trmnl-carte-souvenir/atlas.html" target="_blank">https://nbbou81000.github.io/trmnl-carte-souvenir/atlas.html</a>
 
