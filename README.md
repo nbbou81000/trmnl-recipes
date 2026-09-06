@@ -1,14 +1,14 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-5-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-60-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Total Connections](https://img.shields.io/badge/connections-61-34a853)](https://trmnl.com/recipes?user_id=40325)
 [![Last update](https://img.shields.io/badge/updated-2026--09--06-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
 
 ## Table of Contents
 
-[<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/wba05uotdb3w00znj163pmx87d65" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#oil-price-tracker-wti-brent) [Oil Price Tracker (WTI/Brent)](#oil-price-tracker-wti-brent) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/4z4kwnm17jdcaaoa88p11ary071s" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#souvenir-map) [Souvenir map](#souvenir-map) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/gb6dapfoijwlkkde4p6uy5hp03pe" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#tmdb-random-movie) [TMDB random movie](#tmdb-random-movie) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/3qgtyb7nbj7opjhkxdmzwwqnpdaj" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#geek-almanac) [GEEK almanac](#geek-almanac) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/eucizzw761ilxjotteqzznh9q5uy" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#github-status) [GitHub Status](#github-status)
+[<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/wba05uotdb3w00znj163pmx87d65" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#oil-price-tracker-wti-brent) [Oil Price Tracker (WTI/Brent)](#oil-price-tracker-wti-brent) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/gb6dapfoijwlkkde4p6uy5hp03pe" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#tmdb-random-movie) [TMDB random movie](#tmdb-random-movie) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/4z4kwnm17jdcaaoa88p11ary071s" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#souvenir-map) [Souvenir map](#souvenir-map) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/3qgtyb7nbj7opjhkxdmzwwqnpdaj" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#geek-almanac) [GEEK almanac](#geek-almanac) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/eucizzw761ilxjotteqzznh9q5uy" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#github-status) [GitHub Status](#github-status)
 
 ## <a id="oil-price-tracker-wti-brent"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/wba05uotdb3w00znj163pmx87d65" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Oil Price Tracker (WTI/Brent)
 
@@ -20,6 +20,16 @@ Display the oil prices every 30 minutes
 
 [![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/7i5dayr509sydoqcic3d153jnutz)](https://trmnl-public.s3.us-east-2.amazonaws.com/7i5dayr509sydoqcic3d153jnutz)
 
+## <a id="tmdb-random-movie"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/gb6dapfoijwlkkde4p6uy5hp03pe" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> TMDB random movie
+
+[![Connections](https://img.shields.io/badge/connections-11-34a853)](https://trmnl.com/recipes/393117) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/393117)
+
+Ciné Poster shows a random movie poster pulled daily from TMDB, with optional info panel (synopsis, director, cast, rating, QR code to the movie's TMDB page). Filter by genre(s), decade(s) and minimum rating, choose FR or EN. <br/>Questions or bugs? <a href="https://github.com/nbbou81000" target="_blank">GitHub</a> or <a href="mailto:TON_EMAIL@exemple.com">email me</a>.
+
+[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/393117)
+
+[![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/4kv1er8o8k8fim2xr7kqc6yp9kog)](https://trmnl-public.s3.us-east-2.amazonaws.com/4kv1er8o8k8fim2xr7kqc6yp9kog)
+
 ## <a id="souvenir-map"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/4z4kwnm17jdcaaoa88p11ary071s" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Souvenir map
 
 [![Connections](https://img.shields.io/badge/connections-11-34a853)](https://trmnl.com/recipes/387251) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/387251)
@@ -30,16 +40,6 @@ Souvenir Map renders a poster-style, line-art street map of a random city somewh
 [![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/387251)
 
 [![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/9jniw2as1wankvsfe7jhrgazsj3c)](https://trmnl-public.s3.us-east-2.amazonaws.com/9jniw2as1wankvsfe7jhrgazsj3c)
-
-## <a id="tmdb-random-movie"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/gb6dapfoijwlkkde4p6uy5hp03pe" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> TMDB random movie
-
-[![Connections](https://img.shields.io/badge/connections-10-34a853)](https://trmnl.com/recipes/393117) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/393117)
-
-Ciné Poster shows a random movie poster pulled daily from TMDB, with optional info panel (synopsis, director, cast, rating, QR code to the movie's TMDB page). Filter by genre(s), decade(s) and minimum rating, choose FR or EN. <br/>Questions or bugs? <a href="https://github.com/nbbou81000" target="_blank">GitHub</a> or <a href="mailto:TON_EMAIL@exemple.com">email me</a>.
-
-[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/393117)
-
-[![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/4kv1er8o8k8fim2xr7kqc6yp9kog)](https://trmnl-public.s3.us-east-2.amazonaws.com/4kv1er8o8k8fim2xr7kqc6yp9kog)
 
 ## <a id="geek-almanac"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/3qgtyb7nbj7opjhkxdmzwwqnpdaj" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> GEEK almanac
 
