@@ -41,7 +41,10 @@ async function main() {
   // Tri par nombre de connexions décroissant (le plus populaire en premier)
   recipes.sort((a, b) => installs(b) - installs(a));
 
-  const totalConnections = recipes.reduce((sum, r) => sum + installs(r), 0);
+  const totalConnections = recipes.reduce(
+    (sum, r) => sum + installs(r) + (r?.stats?.forks ?? 0),
+    0
+  );
 
   const toc = recipes
     .map((r) => `[${icon(r, 20)}](#${slugify(r.name)}) [${r.name}](#${slugify(r.name)})`)
