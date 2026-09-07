@@ -1,7 +1,7 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-5-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-62-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Total Connections](https://img.shields.io/badge/connections-63-34a853)](https://trmnl.com/recipes?user_id=40325)
 [![Last update](https://img.shields.io/badge/updated-2026--09--07-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
@@ -53,7 +53,7 @@ Geek Almanac has two modes. <b>Ephemeride</b> shows a tech or geek event that ha
 
 ## <a id="github-status"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/eucizzw761ilxjotteqzznh9q5uy" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> GitHub Status
 
-[![Connections](https://img.shields.io/badge/connections-4-34a853)](https://trmnl.com/recipes/447346) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/447346)
+[![Connections](https://img.shields.io/badge/connections-5-34a853)](https://trmnl.com/recipes/447346) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/447346)
 
 GitHub Status shows the live operational state of all 11 GitHub services (Git, API, Actions, Packages, Pages, Copilot, Codespaces and more), with a 7 or 30 day incident history per service. Switch to incident mode for a detailed feed of every ongoing incident, with its current stage and latest update. Data comes straight from GitHub's official status API - no account, no API key. Available in English and French. Built by Nicolas Bouteiller.
 
