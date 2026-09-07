@@ -1,8 +1,8 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-5-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-61-34a853)](https://trmnl.com/recipes?user_id=40325)
-[![Last update](https://img.shields.io/badge/updated-2026--09--06-grey)](#)
+[![Total Connections](https://img.shields.io/badge/connections-62-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Last update](https://img.shields.io/badge/updated-2026--09--07-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
 
@@ -43,7 +43,7 @@ Souvenir Map renders a poster-style, line-art street map of a random city somewh
 
 ## <a id="geek-almanac"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/3qgtyb7nbj7opjhkxdmzwwqnpdaj" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> GEEK almanac
 
-[![Connections](https://img.shields.io/badge/connections-4-34a853)](https://trmnl.com/recipes/446649) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/446649)
+[![Connections](https://img.shields.io/badge/connections-5-34a853)](https://trmnl.com/recipes/446649) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/446649)
 
 Geek Almanac has two modes. <b>Ephemeride</b> shows a tech or geek event that happened on today's date, with the option to display how old you were when it happened. <b>Encyclopedia</b> shows a random article drawn from a base of 12,000+ tech terms, summarized from Wikipedia by an LLM in both English and French. Every article ships with an illustration and a QR code linking to the original source. All data is pre-generated as static JSON on GitHub Pages, so the plugin costs nothing to run no matter how many people install it.
 
