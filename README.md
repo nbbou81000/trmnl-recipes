@@ -1,7 +1,7 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-6-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-67-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Total Connections](https://img.shields.io/badge/connections-69-34a853)](https://trmnl.com/recipes?user_id=40325)
 [![Last update](https://img.shields.io/badge/updated-2026--09--14-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
@@ -32,7 +32,7 @@ Ciné Poster shows a random movie poster pulled daily from TMDB, with optional i
 
 ## <a id="souvenir-map"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/4z4kwnm17jdcaaoa88p11ary071s" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Souvenir map
 
-[![Connections](https://img.shields.io/badge/connections-10-34a853)](https://trmnl.com/recipes/387251) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/387251)
+[![Connections](https://img.shields.io/badge/connections-11-34a853)](https://trmnl.com/recipes/387251) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/387251)
 
 Souvenir Map renders a poster-style, line-art street map of a random city somewhere in the world, picked fresh every refresh from a dataset of ~34,000 cities. Map geometry comes live from OpenStreetMap. To complement the plugin, I created a small webpage displaying a map of all the cities that have appeared so far, along with various statistics : <a href="https://nbbou81000.github.io/trmnl-carte-souvenir/atlas.html" target="_blank">https://nbbou81000.github.io/trmnl-carte-souvenir/atlas.html</a>
 
@@ -53,7 +53,7 @@ Geek Almanac has two modes. <b>Ephemeride</b> shows a tech or geek event that ha
 
 ## <a id="github-status"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/eucizzw761ilxjotteqzznh9q5uy" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> GitHub Status
 
-[![Connections](https://img.shields.io/badge/connections-5-34a853)](https://trmnl.com/recipes/447346) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/447346)
+[![Connections](https://img.shields.io/badge/connections-6-34a853)](https://trmnl.com/recipes/447346) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/447346)
 
 GitHub Status shows the live operational state of all 11 GitHub services (Git, API, Actions, Packages, Pages, Copilot, Codespaces and more), with a 7 or 30 day incident history per service. Switch to incident mode for a detailed feed of every ongoing incident, with its current stage and latest update. Data comes straight from GitHub's official status API - no account, no API key. Available in English and French. Built by Nicolas Bouteiller.
 
