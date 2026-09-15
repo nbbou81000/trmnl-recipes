@@ -1,7 +1,7 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-7-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-71-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Total Connections](https://img.shields.io/badge/connections-72-34a853)](https://trmnl.com/recipes?user_id=40325)
 [![Last update](https://img.shields.io/badge/updated-2026--09--15-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
@@ -12,9 +12,9 @@
 
 ## <a id="oil-price-tracker-wti-brent"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/wba05uotdb3w00znj163pmx87d65" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Oil Price Tracker (WTI/Brent)
 
-[![Connections](https://img.shields.io/badge/connections-30-34a853)](https://trmnl.com/recipes/375844) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/375844)
+[![Connections](https://img.shields.io/badge/connections-31-34a853)](https://trmnl.com/recipes/375844) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/375844)
 
-Display the oil prices every 30 minutes
+Display the oil prices every 30 minutes (Brent Crude Oil Last Day Financial Futures)
 
 [![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/375844)
 
