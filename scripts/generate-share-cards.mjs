@@ -36,7 +36,6 @@ const CORPUS_POOLS = {
 };
 
 const W = 1200;
-const H = 630;
 
 async function main() {
   const res = await fetch(API_URL, { headers: { "User-Agent": "trmnl-recipes-share-bot" } });
@@ -61,7 +60,26 @@ async function renderCard(r) {
   const bgUrl = await pickBackgroundUrl(r);
   const bgBuf = await fetchBuffer(bgUrl);
 
-  // 1. Fond : cover-fit sur 1200x630
+  const title = escapeXml(r.name);
+  // Texte complet, sans troncature (largeur ~1120px utile -> ~68 caractères en 26px sans-serif)
+  const desc = wrapText(stripHtml(r?.author_bio?.description ?? r?.description ?? ""), 68, Infinity);
+
+  const installsN = r?.stats?.installs ?? 0;
+  const forksN = r?.stats?.forks ?? 0;
+
+  // --- Mise en page verticale dynamique ---
+  const PANEL_TOP = 320; // l'image reste visible et non recadrée jusque-là
+  const TITLE_Y = PANEL_TOP + 140; // 460
+  const BADGE_ROW_Y = TITLE_Y + 46; // pilules connections/forks
+  const DESC_START_Y = BADGE_ROW_Y + 46;
+  const LINE_HEIGHT = 34;
+  const FOOTER_GAP = 46;
+  const FOOTER_HEIGHT = 40;
+
+  const descBlockHeight = desc.length * LINE_HEIGHT;
+  const H = Math.max(630, DESC_START_Y + descBlockHeight + FOOTER_GAP + FOOTER_HEIGHT);
+
+  // 1. Fond : cover-fit sur 1200 x H (H variable selon la longueur du texte)
   const background = await sharp(bgBuf)
     .resize(W, H, { fit: "cover", position: "attention" })
     .toBuffer();
@@ -76,8 +94,8 @@ async function renderCard(r) {
     // pas grave si l'icône ne charge pas, on affiche sans
   }
 
-  const title = escapeXml(r.name);
-  const desc = wrapText(stripHtml(r?.author_bio?.description ?? r?.description ?? ""), 62, 3);
+  const connPill = pill(40, BADGE_ROW_Y, `🔌 ${installsN} connexion${installsN > 1 ? "s" : ""}`, "#34a853");
+  const forksPill = pill(40 + connPill.width + 16, BADGE_ROW_Y, `🍴 ${forksN} fork${forksN > 1 ? "s" : ""}`, "#e8710a");
 
   const overlay = `
 <svg width="${W}" height="${H}" xmlns="http://www.w3.org/2000/svg">
@@ -89,7 +107,7 @@ async function renderCard(r) {
       <stop offset="100%" stop-color="#000000" stop-opacity="0.95"/>
     </linearGradient>
   </defs>
-  <rect x="0" y="320" width="${W}" height="${H - 320}" fill="url(#fade)"/>
+  <rect x="0" y="${PANEL_TOP}" width="${W}" height="${H - PANEL_TOP}" fill="url(#fade)"/>
 
   ${iconDataUri ? `
   <rect x="32" y="32" width="230" height="88" rx="14" fill="#000000" opacity="0.6"/>
@@ -101,14 +119,17 @@ async function renderCard(r) {
         fill="#ffffff" letter-spacing="1.5">RECIPE</text>
   ` : ""}
 
-  <text x="40" y="460" font-family="sans-serif" font-size="52" font-weight="800" fill="#ffffff">
+  <text x="40" y="${TITLE_Y}" font-family="sans-serif" font-size="52" font-weight="800" fill="#ffffff">
     ${title}
   </text>
+
+  ${connPill.svg}
+  ${forksPill.svg}
 
   ${desc
     .map(
       (line, i) =>
-        `<text x="40" y="${505 + i * 34}" font-family="sans-serif" font-size="26" fill="#e5e5e5">${escapeXml(line)}</text>`
+        `<text x="40" y="${DESC_START_Y + i * LINE_HEIGHT}" font-family="sans-serif" font-size="26" fill="#e5e5e5">${escapeXml(line)}</text>`
     )
     .join("\n")}
 
@@ -137,6 +158,19 @@ async function fetchBuffer(url) {
   const res = await fetch(url, { headers: { "User-Agent": "trmnl-recipes-share-bot" } });
   if (!res.ok) throw new Error(`fetch ${url} -> ${res.status}`);
   return Buffer.from(await res.arrayBuffer());
+}
+
+function pill(x, y, text, color) {
+  // Estimation simple de largeur : ~11.5px par caractère à 20px de police
+  const charWidth = 11.5;
+  const paddingX = 18;
+  const width = Math.round(text.length * charWidth + paddingX * 2);
+  const height = 40;
+  const svg = `<g>
+    <rect x="${x}" y="${y - 28}" width="${width}" height="${height}" rx="20" fill="${color}"/>
+    <text x="${x + paddingX}" y="${y}" font-family="sans-serif" font-size="20" font-weight="700" fill="#ffffff">${escapeXml(text)}</text>
+  </g>`;
+  return { svg, width };
 }
 
 function stripHtml(s) {
