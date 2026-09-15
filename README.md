@@ -1,8 +1,8 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-7-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-68-34a853)](https://trmnl.com/recipes?user_id=40325)
-[![Last update](https://img.shields.io/badge/updated-2026--09--14-grey)](#)
+[![Total Connections](https://img.shields.io/badge/connections-69-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Last update](https://img.shields.io/badge/updated-2026--09--15-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
 
@@ -63,7 +63,7 @@ GitHub Status shows the live operational state of all 11 GitHub services (Git, A
 
 ## <a id="patent-drawings"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/66ohjpw2qky3zcwvju167wf7zra5" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Patent drawings
 
-[![Connections](https://img.shields.io/badge/connections-0-34a853)](https://trmnl.com/recipes/469103) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/469103)
+[![Connections](https://img.shields.io/badge/connections-1-34a853)](https://trmnl.com/recipes/469103) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/469103)
 
 A random U.S. design patent drawing, refreshed on every update. Consoles, phones, laptops, e-readers, cameras and other devices as their designers first filed them — pure line art, which is exactly what e-ink renders best. Drawings come from published U.S. design patents, government publications in the public domain. Roughly 10,300 drawings and growing.
 
