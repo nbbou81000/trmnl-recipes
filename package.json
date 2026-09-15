@@ -1,0 +1,12 @@
+{
+  "name": "trmnl-recipes",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "share-cards": "node scripts/generate-share-cards.mjs",
+    "readme": "node scripts/generate-readme.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
