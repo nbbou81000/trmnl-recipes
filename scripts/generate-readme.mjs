@@ -11,6 +11,8 @@
 
 const USER_ID = process.env.TRMNL_USER_ID;
 const AUTHOR_NAME = process.env.AUTHOR_NAME || "Nico";
+// "owner/repo" fourni automatiquement par GitHub Actions ; fallback pour test en local
+const REPO = process.env.GITHUB_REPOSITORY || "nbbou81000/trmnl-recipes";
 
 if (!USER_ID) {
   console.error("❌ TRMNL_USER_ID manquant (env var).");
@@ -93,6 +95,14 @@ function icon(r, size = 28) {
   return `<img src="${r.icon_url}" width="${size}" height="${size}" style="border-radius:6px;vertical-align:middle;">`;
 }
 
+function shareUrl(r) {
+  return `https://raw.githubusercontent.com/${REPO}/main/share/${r.id}.png`;
+}
+
+function shareBadge() {
+  return `https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge`;
+}
+
 function renderCard(r) {
   const anchor = slugify(r.name);
   const connBadge = shieldsBadge("connections", installs(r), "34a853");
@@ -106,7 +116,7 @@ function renderCard(r) {
 
 ${description(r)}
 
-[![Show it on TRMNL](${trmnlShowBadge(r.id)})](https://trmnl.com/recipes/${r.id})
+[![Show it on TRMNL](${trmnlShowBadge(r.id)})](https://trmnl.com/recipes/${r.id}) [![Partager](${shareBadge()})](${shareUrl(r)})
 
 ${screenshot}`;
 }
