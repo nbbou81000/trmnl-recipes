@@ -16,7 +16,7 @@
 
 Display the oil prices every 30 minutes (Brent Crude Oil Last Day Financial Futures)
 
-[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/375844)
+[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/375844) [![Partager](https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge)](https://raw.githubusercontent.com/nbbou81000/trmnl-recipes/main/share/375844.png)
 
 [![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/7i5dayr509sydoqcic3d153jnutz)](https://trmnl-public.s3.us-east-2.amazonaws.com/7i5dayr509sydoqcic3d153jnutz)
 
@@ -26,7 +26,7 @@ Display the oil prices every 30 minutes (Brent Crude Oil Last Day Financial Futu
 
 Ciné Poster shows a random movie poster pulled daily from TMDB, with optional info panel (synopsis, director, cast, rating, QR code to the movie's TMDB page). Filter by genre(s), decade(s) and minimum rating, choose FR or EN. <br/>Questions or bugs? <a href="https://github.com/nbbou81000" target="_blank">GitHub</a> or <a href="mailto:TON_EMAIL@exemple.com">email me</a>.
 
-[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/393117)
+[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/393117) [![Partager](https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge)](https://raw.githubusercontent.com/nbbou81000/trmnl-recipes/main/share/393117.png)
 
 [![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/4kv1er8o8k8fim2xr7kqc6yp9kog)](https://trmnl-public.s3.us-east-2.amazonaws.com/4kv1er8o8k8fim2xr7kqc6yp9kog)
 
@@ -37,7 +37,7 @@ Ciné Poster shows a random movie poster pulled daily from TMDB, with optional i
 Souvenir Map renders a poster-style, line-art street map of a random city somewhere in the world, picked fresh every refresh from a dataset of ~34,000 cities. Map geometry comes live from OpenStreetMap. To complement the plugin, I created a small webpage displaying a map of all the cities that have appeared so far, along with various statistics : <a href="https://nbbou81000.github.io/trmnl-carte-souvenir/atlas.html" target="_blank">https://nbbou81000.github.io/trmnl-carte-souvenir/atlas.html</a>
 
 
-[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/387251)
+[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/387251) [![Partager](https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge)](https://raw.githubusercontent.com/nbbou81000/trmnl-recipes/main/share/387251.png)
 
 [![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/9jniw2as1wankvsfe7jhrgazsj3c)](https://trmnl-public.s3.us-east-2.amazonaws.com/9jniw2as1wankvsfe7jhrgazsj3c)
 
@@ -47,7 +47,7 @@ Souvenir Map renders a poster-style, line-art street map of a random city somewh
 
 Geek Almanac has two modes. <b>Ephemeride</b> shows a tech or geek event that happened on today's date, with the option to display how old you were when it happened. <b>Encyclopedia</b> shows a random article drawn from a base of 12,000+ tech terms, summarized from Wikipedia by an LLM in both English and French. Every article ships with an illustration and a QR code linking to the original source. All data is pre-generated as static JSON on GitHub Pages, so the plugin costs nothing to run no matter how many people install it.
 
-[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/446649)
+[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/446649) [![Partager](https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge)](https://raw.githubusercontent.com/nbbou81000/trmnl-recipes/main/share/446649.png)
 
 [![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/eti60wy1xzfaeah3p6outgicvjes)](https://trmnl-public.s3.us-east-2.amazonaws.com/eti60wy1xzfaeah3p6outgicvjes)
 
@@ -57,7 +57,7 @@ Geek Almanac has two modes. <b>Ephemeride</b> shows a tech or geek event that ha
 
 GitHub Status shows the live operational state of all 11 GitHub services (Git, API, Actions, Packages, Pages, Copilot, Codespaces and more), with a 7 or 30 day incident history per service. Switch to incident mode for a detailed feed of every ongoing incident, with its current stage and latest update. Data comes straight from GitHub's official status API - no account, no API key. Available in English and French. Built by Nicolas Bouteiller.
 
-[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/447346)
+[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/447346) [![Partager](https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge)](https://raw.githubusercontent.com/nbbou81000/trmnl-recipes/main/share/447346.png)
 
 [![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/os8ua17vdd7dd1lx9pfz0mkp9vwq)](https://trmnl-public.s3.us-east-2.amazonaws.com/os8ua17vdd7dd1lx9pfz0mkp9vwq)
 
@@ -67,7 +67,7 @@ GitHub Status shows the live operational state of all 11 GitHub services (Git, A
 
 A random U.S. design patent drawing, refreshed on every update. Consoles, phones, laptops, e-readers, cameras and other devices as their designers first filed them — pure line art, which is exactly what e-ink renders best. Drawings come from published U.S. design patents, government publications in the public domain. Roughly 10,300 drawings and growing.
 
-[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/469103)
+[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/469103) [![Partager](https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge)](https://raw.githubusercontent.com/nbbou81000/trmnl-recipes/main/share/469103.png)
 
 [![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/63ojhobd2dxc3odq8ylvs8nijfjp)](https://trmnl-public.s3.us-east-2.amazonaws.com/63ojhobd2dxc3odq8ylvs8nijfjp)
 
@@ -77,7 +77,7 @@ A random U.S. design patent drawing, refreshed on every update. Consoles, phones
 
 Live US AMBER Alerts, nationwide, with QR links to official info.
 
-[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/453038)
+[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/453038) [![Partager](https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge)](https://raw.githubusercontent.com/nbbou81000/trmnl-recipes/main/share/453038.png)
 
 [![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/jq3z5tgg0henydnq4zkxqrr5o5po)](https://trmnl-public.s3.us-east-2.amazonaws.com/jq3z5tgg0henydnq4zkxqrr5o5po)
 
