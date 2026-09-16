@@ -1,14 +1,14 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-7-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-82-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Total Connections](https://img.shields.io/badge/connections-84-34a853)](https://trmnl.com/recipes?user_id=40325)
 [![Last update](https://img.shields.io/badge/updated-2026--09--16-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
 
 ## Table of Contents
 
-[<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/wba05uotdb3w00znj163pmx87d65" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#oil-price-tracker-wti-brent) [Oil Price Tracker (WTI/Brent)](#oil-price-tracker-wti-brent) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/gb6dapfoijwlkkde4p6uy5hp03pe" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#tmdb-random-movie) [TMDB random movie](#tmdb-random-movie) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/4z4kwnm17jdcaaoa88p11ary071s" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#souvenir-map) [Souvenir map](#souvenir-map) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/66ohjpw2qky3zcwvju167wf7zra5" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#patent-drawings) [Patent drawings](#patent-drawings) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/3qgtyb7nbj7opjhkxdmzwwqnpdaj" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#geek-almanac) [GEEK almanac](#geek-almanac) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/eucizzw761ilxjotteqzznh9q5uy" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#github-status) [GitHub Status](#github-status) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/uo7unbysicm1q9es0skmq09fyme6" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#amber-alert) [Amber alert](#amber-alert)
+[<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/wba05uotdb3w00znj163pmx87d65" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#oil-price-tracker-wti-brent) [Oil Price Tracker (WTI/Brent)](#oil-price-tracker-wti-brent) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/66ohjpw2qky3zcwvju167wf7zra5" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#patent-drawings) [Patent drawings](#patent-drawings) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/gb6dapfoijwlkkde4p6uy5hp03pe" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#tmdb-random-movie) [TMDB random movie](#tmdb-random-movie) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/4z4kwnm17jdcaaoa88p11ary071s" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#souvenir-map) [Souvenir map](#souvenir-map) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/3qgtyb7nbj7opjhkxdmzwwqnpdaj" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#geek-almanac) [GEEK almanac](#geek-almanac) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/eucizzw761ilxjotteqzznh9q5uy" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#github-status) [GitHub Status](#github-status) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/uo7unbysicm1q9es0skmq09fyme6" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#amber-alert) [Amber alert](#amber-alert)
 
 ## <a id="oil-price-tracker-wti-brent"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/wba05uotdb3w00znj163pmx87d65" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Oil Price Tracker (WTI/Brent)
 
@@ -19,6 +19,16 @@ Display the oil prices every 30 minutes (Brent Crude Oil Last Day Financial Futu
 [![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/375844) [![Partager](https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge)](https://raw.githubusercontent.com/nbbou81000/trmnl-recipes/main/share/375844.png)
 
 [![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/7i5dayr509sydoqcic3d153jnutz)](https://trmnl-public.s3.us-east-2.amazonaws.com/7i5dayr509sydoqcic3d153jnutz)
+
+## <a id="patent-drawings"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/66ohjpw2qky3zcwvju167wf7zra5" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Patent drawings
+
+[![Connections](https://img.shields.io/badge/connections-12-34a853)](https://trmnl.com/recipes/469103) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/469103)
+
+A random U.S. design patent drawing, refreshed on every update. Consoles, phones, laptops, e-readers, cameras and other devices as their designers first filed them — pure line art, which is exactly what e-ink renders best. Drawings come from published U.S. design patents, government publications in the public domain. Roughly 10,300 drawings and growing.
+
+[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/469103) [![Partager](https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge)](https://raw.githubusercontent.com/nbbou81000/trmnl-recipes/main/share/469103.png)
+
+[![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/63ojhobd2dxc3odq8ylvs8nijfjp)](https://trmnl-public.s3.us-east-2.amazonaws.com/63ojhobd2dxc3odq8ylvs8nijfjp)
 
 ## <a id="tmdb-random-movie"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/gb6dapfoijwlkkde4p6uy5hp03pe" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> TMDB random movie
 
@@ -40,16 +50,6 @@ Souvenir Map renders a poster-style, line-art street map of a random city somewh
 [![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/387251) [![Partager](https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge)](https://raw.githubusercontent.com/nbbou81000/trmnl-recipes/main/share/387251.png)
 
 [![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/9jniw2as1wankvsfe7jhrgazsj3c)](https://trmnl-public.s3.us-east-2.amazonaws.com/9jniw2as1wankvsfe7jhrgazsj3c)
-
-## <a id="patent-drawings"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/66ohjpw2qky3zcwvju167wf7zra5" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Patent drawings
-
-[![Connections](https://img.shields.io/badge/connections-10-34a853)](https://trmnl.com/recipes/469103) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/469103)
-
-A random U.S. design patent drawing, refreshed on every update. Consoles, phones, laptops, e-readers, cameras and other devices as their designers first filed them — pure line art, which is exactly what e-ink renders best. Drawings come from published U.S. design patents, government publications in the public domain. Roughly 10,300 drawings and growing.
-
-[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/469103) [![Partager](https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge)](https://raw.githubusercontent.com/nbbou81000/trmnl-recipes/main/share/469103.png)
-
-[![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/63ojhobd2dxc3odq8ylvs8nijfjp)](https://trmnl-public.s3.us-east-2.amazonaws.com/63ojhobd2dxc3odq8ylvs8nijfjp)
 
 ## <a id="geek-almanac"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/3qgtyb7nbj7opjhkxdmzwwqnpdaj" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> GEEK almanac
 
