@@ -1,14 +1,14 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-8-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-90-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Total Connections](https://img.shields.io/badge/connections-93-34a853)](https://trmnl.com/recipes?user_id=40325)
 [![Last update](https://img.shields.io/badge/updated-2026--09--17-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
 
 ## Table of Contents
 
-[<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/wba05uotdb3w00znj163pmx87d65" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#oil-price-tracker-wti-brent) [Oil Price Tracker (WTI/Brent)](#oil-price-tracker-wti-brent) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/66ohjpw2qky3zcwvju167wf7zra5" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#patent-drawings) [Patent drawings](#patent-drawings) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/gb6dapfoijwlkkde4p6uy5hp03pe" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#tmdb-random-movie) [TMDB random movie](#tmdb-random-movie) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/4z4kwnm17jdcaaoa88p11ary071s" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#souvenir-map) [Souvenir map](#souvenir-map) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/3qgtyb7nbj7opjhkxdmzwwqnpdaj" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#geek-almanac) [GEEK almanac](#geek-almanac) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/jzx18bzr1s2hgwsqfs1ld35hqnt1" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#wikipedia-trending-articles) [Wikipedia trending articles](#wikipedia-trending-articles) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/eucizzw761ilxjotteqzznh9q5uy" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#github-status) [GitHub Status](#github-status) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/uo7unbysicm1q9es0skmq09fyme6" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#amber-alert) [Amber alert](#amber-alert)
+[<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/wba05uotdb3w00znj163pmx87d65" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#oil-price-tracker-wti-brent) [Oil Price Tracker (WTI/Brent)](#oil-price-tracker-wti-brent) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/66ohjpw2qky3zcwvju167wf7zra5" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#patent-drawings) [Patent drawings](#patent-drawings) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/gb6dapfoijwlkkde4p6uy5hp03pe" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#tmdb-random-movie) [TMDB random movie](#tmdb-random-movie) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/3qgtyb7nbj7opjhkxdmzwwqnpdaj" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#geek-almanac) [GEEK almanac](#geek-almanac) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/4z4kwnm17jdcaaoa88p11ary071s" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#souvenir-map) [Souvenir map](#souvenir-map) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/jzx18bzr1s2hgwsqfs1ld35hqnt1" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#wikipedia-trending-articles) [Wikipedia trending articles](#wikipedia-trending-articles) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/eucizzw761ilxjotteqzznh9q5uy" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#github-status) [GitHub Status](#github-status) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/uo7unbysicm1q9es0skmq09fyme6" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#amber-alert) [Amber alert](#amber-alert)
 
 ## <a id="oil-price-tracker-wti-brent"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/wba05uotdb3w00znj163pmx87d65" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Oil Price Tracker (WTI/Brent)
 
@@ -40,6 +40,16 @@ Ciné Poster shows a random movie poster pulled daily from TMDB, with optional i
 
 [![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/4kv1er8o8k8fim2xr7kqc6yp9kog)](https://trmnl-public.s3.us-east-2.amazonaws.com/4kv1er8o8k8fim2xr7kqc6yp9kog)
 
+## <a id="geek-almanac"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/3qgtyb7nbj7opjhkxdmzwwqnpdaj" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> GEEK almanac
+
+[![Connections](https://img.shields.io/badge/connections-11-34a853)](https://trmnl.com/recipes/446649) [![Forks](https://img.shields.io/badge/forks-2-orange)](https://trmnl.com/recipes/446649)
+
+Geek Almanac has two modes. <b>Ephemeride</b> shows a tech or geek event that happened on today's date, with the option to display how old you were when it happened. <b>Encyclopedia</b> shows a random article drawn from a base of 12,000+ tech terms, summarized from Wikipedia by an LLM in both English and French. Every article ships with an illustration and a QR code linking to the original source. All data is pre-generated as static JSON on GitHub Pages, so the plugin costs nothing to run no matter how many people install it.
+
+[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/446649) [![Partager](https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge)](https://raw.githubusercontent.com/nbbou81000/trmnl-recipes/main/share/446649.png)
+
+[![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/eti60wy1xzfaeah3p6outgicvjes)](https://trmnl-public.s3.us-east-2.amazonaws.com/eti60wy1xzfaeah3p6outgicvjes)
+
 ## <a id="souvenir-map"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/4z4kwnm17jdcaaoa88p11ary071s" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Souvenir map
 
 [![Connections](https://img.shields.io/badge/connections-11-34a853)](https://trmnl.com/recipes/387251) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/387251)
@@ -51,19 +61,9 @@ Souvenir Map renders a poster-style, line-art street map of a random city somewh
 
 [![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/9jniw2as1wankvsfe7jhrgazsj3c)](https://trmnl-public.s3.us-east-2.amazonaws.com/9jniw2as1wankvsfe7jhrgazsj3c)
 
-## <a id="geek-almanac"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/3qgtyb7nbj7opjhkxdmzwwqnpdaj" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> GEEK almanac
-
-[![Connections](https://img.shields.io/badge/connections-10-34a853)](https://trmnl.com/recipes/446649) [![Forks](https://img.shields.io/badge/forks-2-orange)](https://trmnl.com/recipes/446649)
-
-Geek Almanac has two modes. <b>Ephemeride</b> shows a tech or geek event that happened on today's date, with the option to display how old you were when it happened. <b>Encyclopedia</b> shows a random article drawn from a base of 12,000+ tech terms, summarized from Wikipedia by an LLM in both English and French. Every article ships with an illustration and a QR code linking to the original source. All data is pre-generated as static JSON on GitHub Pages, so the plugin costs nothing to run no matter how many people install it.
-
-[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/446649) [![Partager](https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge)](https://raw.githubusercontent.com/nbbou81000/trmnl-recipes/main/share/446649.png)
-
-[![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/eti60wy1xzfaeah3p6outgicvjes)](https://trmnl-public.s3.us-east-2.amazonaws.com/eti60wy1xzfaeah3p6outgicvjes)
-
 ## <a id="wikipedia-trending-articles"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/jzx18bzr1s2hgwsqfs1ld35hqnt1" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Wikipedia trending articles
 
-[![Connections](https://img.shields.io/badge/connections-5-34a853)](https://trmnl.com/recipes/476387) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/476387)
+[![Connections](https://img.shields.io/badge/connections-7-34a853)](https://trmnl.com/recipes/476387) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/476387)
 
 Yesterday's most-viewed Wikipedia articles, in English, French, German or Spanish. Two display modes are available in the settings below. Thumbnail shows a dithered image of the top article alongside the ranking, plus a summary band with cumulative views and the day's sharpest riser. Trends drops the image and shows twelve articles instead, each with its change versus the previous day and a seven-day bar sparkline. Data comes from the official Wikimedia Pageviews API and refreshes daily. All labels follow the language you pick.
 
