@@ -2,7 +2,7 @@
 
 [![Recipes](https://img.shields.io/badge/recipes-8-1a73e8)](https://trmnl.com/recipes?user_id=40325)
 [![Total Connections](https://img.shields.io/badge/connections-103-34a853)](https://trmnl.com/recipes?user_id=40325)
-[![Last update](https://img.shields.io/badge/updated-2026--09--20-grey)](#)
+[![Last update](https://img.shields.io/badge/updated-2026--09--21-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
 
