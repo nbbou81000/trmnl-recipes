@@ -1,7 +1,7 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-8-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-105-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Total Connections](https://img.shields.io/badge/connections-107-34a853)](https://trmnl.com/recipes?user_id=40325)
 [![Last update](https://img.shields.io/badge/updated-2026--09--22-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
@@ -32,7 +32,7 @@ A random U.S. design patent drawing, refreshed on every update. Consoles, phones
 
 ## <a id="wikipedia-trending-articles"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/jzx18bzr1s2hgwsqfs1ld35hqnt1" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Wikipedia trending articles
 
-[![Connections](https://img.shields.io/badge/connections-13-34a853)](https://trmnl.com/recipes/476387) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/476387)
+[![Connections](https://img.shields.io/badge/connections-14-34a853)](https://trmnl.com/recipes/476387) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/476387)
 
 Yesterday's most-viewed Wikipedia articles, in English, French, German or Spanish. Two display modes are available in the settings below. Thumbnail shows a dithered image of the top article alongside the ranking, plus a summary band with cumulative views and the day's sharpest riser. Trends drops the image and shows twelve articles instead, each with its change versus the previous day and a seven-day bar sparkline. Data comes from the official Wikimedia Pageviews API and refreshes daily. All labels follow the language you pick.
 
@@ -42,7 +42,7 @@ Yesterday's most-viewed Wikipedia articles, in English, French, German or Spanis
 
 ## <a id="tmdb-random-movie"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/gb6dapfoijwlkkde4p6uy5hp03pe" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> TMDB random movie
 
-[![Connections](https://img.shields.io/badge/connections-12-34a853)](https://trmnl.com/recipes/393117) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/393117)
+[![Connections](https://img.shields.io/badge/connections-13-34a853)](https://trmnl.com/recipes/393117) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/393117)
 
 Ciné Poster shows a random movie poster pulled daily from TMDB, with optional info panel (synopsis, director, cast, rating, QR code to the movie's TMDB page). Filter by genre(s), decade(s) and minimum rating, choose FR or EN. <br/>Questions or bugs? <a href="https://github.com/nbbou81000" target="_blank">GitHub</a> or <a href="mailto:TON_EMAIL@exemple.com">email me</a>.
 
