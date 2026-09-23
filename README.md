@@ -1,7 +1,7 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-8-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-116-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Total Connections](https://img.shields.io/badge/connections-119-34a853)](https://trmnl.com/recipes?user_id=40325)
 [![Last update](https://img.shields.io/badge/updated-2026--09--23-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
@@ -22,7 +22,7 @@ Display the oil prices every 30 minutes (Brent Crude Oil Last Day Financial Futu
 
 ## <a id="wikipedia-trending-articles"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/jzx18bzr1s2hgwsqfs1ld35hqnt1" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Wikipedia trending articles
 
-[![Connections](https://img.shields.io/badge/connections-20-34a853)](https://trmnl.com/recipes/476387) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/476387)
+[![Connections](https://img.shields.io/badge/connections-22-34a853)](https://trmnl.com/recipes/476387) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/476387)
 
 Yesterday's most-viewed Wikipedia articles, in English, French, German or Spanish. Two display modes are available in the settings below. Thumbnail shows a dithered image of the top article alongside the ranking, plus a summary band with cumulative views and the day's sharpest riser. Trends drops the image and shows twelve articles instead, each with its change versus the previous day and a seven-day bar sparkline. Data comes from the official Wikimedia Pageviews API and refreshes daily. All labels follow the language you pick.
 
@@ -52,7 +52,7 @@ Ciné Poster shows a random movie poster pulled daily from TMDB, with optional i
 
 ## <a id="geek-almanac"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/3qgtyb7nbj7opjhkxdmzwwqnpdaj" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> GEEK almanac
 
-[![Connections](https://img.shields.io/badge/connections-11-34a853)](https://trmnl.com/recipes/446649) [![Forks](https://img.shields.io/badge/forks-2-orange)](https://trmnl.com/recipes/446649)
+[![Connections](https://img.shields.io/badge/connections-12-34a853)](https://trmnl.com/recipes/446649) [![Forks](https://img.shields.io/badge/forks-2-orange)](https://trmnl.com/recipes/446649)
 
 Geek Almanac has two modes. <b>Ephemeride</b> shows a tech or geek event that happened on today's date, with the option to display how old you were when it happened. <b>Encyclopedia</b> shows a random article drawn from a base of 12,000+ tech terms, summarized from Wikipedia by an LLM in both English and French. Every article ships with an illustration and a QR code linking to the original source. All data is pre-generated as static JSON on GitHub Pages, so the plugin costs nothing to run no matter how many people install it.
 
