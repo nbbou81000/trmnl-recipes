@@ -1,7 +1,7 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-8-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-114-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Total Connections](https://img.shields.io/badge/connections-116-34a853)](https://trmnl.com/recipes?user_id=40325)
 [![Last update](https://img.shields.io/badge/updated-2026--09--23-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
@@ -12,7 +12,7 @@
 
 ## <a id="oil-price-tracker-wti-brent"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/wba05uotdb3w00znj163pmx87d65" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Oil Price Tracker (WTI/Brent)
 
-[![Connections](https://img.shields.io/badge/connections-36-34a853)](https://trmnl.com/recipes/375844) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/375844)
+[![Connections](https://img.shields.io/badge/connections-35-34a853)](https://trmnl.com/recipes/375844) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/375844)
 
 Display the oil prices every 30 minutes (Brent Crude Oil Last Day Financial Futures)
 
@@ -22,7 +22,7 @@ Display the oil prices every 30 minutes (Brent Crude Oil Last Day Financial Futu
 
 ## <a id="wikipedia-trending-articles"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/jzx18bzr1s2hgwsqfs1ld35hqnt1" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Wikipedia trending articles
 
-[![Connections](https://img.shields.io/badge/connections-18-34a853)](https://trmnl.com/recipes/476387) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/476387)
+[![Connections](https://img.shields.io/badge/connections-20-34a853)](https://trmnl.com/recipes/476387) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/476387)
 
 Yesterday's most-viewed Wikipedia articles, in English, French, German or Spanish. Two display modes are available in the settings below. Thumbnail shows a dithered image of the top article alongside the ranking, plus a summary band with cumulative views and the day's sharpest riser. Trends drops the image and shows twelve articles instead, each with its change versus the previous day and a seven-day bar sparkline. Data comes from the official Wikimedia Pageviews API and refreshes daily. All labels follow the language you pick.
 
@@ -32,7 +32,7 @@ Yesterday's most-viewed Wikipedia articles, in English, French, German or Spanis
 
 ## <a id="patent-drawings"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/66ohjpw2qky3zcwvju167wf7zra5" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Patent drawings
 
-[![Connections](https://img.shields.io/badge/connections-16-34a853)](https://trmnl.com/recipes/469103) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/469103)
+[![Connections](https://img.shields.io/badge/connections-17-34a853)](https://trmnl.com/recipes/469103) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/469103)
 
 A random U.S. design patent drawing, refreshed on every update. Consoles, phones, laptops, e-readers, cameras and other devices as their designers first filed them — pure line art, which is exactly what e-ink renders best. Drawings come from published U.S. design patents, government publications in the public domain. Roughly 10,300 drawings and growing.
 
