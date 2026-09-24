@@ -1,8 +1,8 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-8-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-119-34a853)](https://trmnl.com/recipes?user_id=40325)
-[![Last update](https://img.shields.io/badge/updated-2026--09--23-grey)](#)
+[![Total Connections](https://img.shields.io/badge/connections-120-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Last update](https://img.shields.io/badge/updated-2026--09--24-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
 
@@ -22,7 +22,7 @@ Display the oil prices every 30 minutes (Brent Crude Oil Last Day Financial Futu
 
 ## <a id="wikipedia-trending-articles"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/jzx18bzr1s2hgwsqfs1ld35hqnt1" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Wikipedia trending articles
 
-[![Connections](https://img.shields.io/badge/connections-22-34a853)](https://trmnl.com/recipes/476387) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/476387)
+[![Connections](https://img.shields.io/badge/connections-23-34a853)](https://trmnl.com/recipes/476387) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/476387)
 
 Yesterday's most-viewed Wikipedia articles, in English, French, German or Spanish. Two display modes are available in the settings below. Thumbnail shows a dithered image of the top article alongside the ranking, plus a summary band with cumulative views and the day's sharpest riser. Trends drops the image and shows twelve articles instead, each with its change versus the previous day and a seven-day bar sparkline. Data comes from the official Wikimedia Pageviews API and refreshes daily. All labels follow the language you pick.
 
