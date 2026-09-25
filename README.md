@@ -1,8 +1,8 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-8-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-121-34a853)](https://trmnl.com/recipes?user_id=40325)
-[![Last update](https://img.shields.io/badge/updated-2026--09--24-grey)](#)
+[![Total Connections](https://img.shields.io/badge/connections-120-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Last update](https://img.shields.io/badge/updated-2026--09--25-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
 
@@ -42,7 +42,7 @@ A random U.S. design patent drawing, refreshed on every update. Consoles, phones
 
 ## <a id="tmdb-random-movie"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/gb6dapfoijwlkkde4p6uy5hp03pe" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> TMDB random movie
 
-[![Connections](https://img.shields.io/badge/connections-14-34a853)](https://trmnl.com/recipes/393117) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/393117)
+[![Connections](https://img.shields.io/badge/connections-13-34a853)](https://trmnl.com/recipes/393117) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/393117)
 
 Ciné Poster shows a random movie poster pulled daily from TMDB, with optional info panel (synopsis, director, cast, rating, QR code to the movie's TMDB page). Filter by genre(s), decade(s) and minimum rating, choose FR or EN. <br/>Questions or bugs? <a href="https://github.com/nbbou81000" target="_blank">GitHub</a> or <a href="mailto:TON_EMAIL@exemple.com">email me</a>.
 
