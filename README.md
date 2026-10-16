@@ -1,14 +1,14 @@
 # Nico's TRMNL Recipes
 
-[![Recipes](https://img.shields.io/badge/recipes-8-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-161-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Recipes](https://img.shields.io/badge/recipes-9-1a73e8)](https://trmnl.com/recipes?user_id=40325)
+[![Total Connections](https://img.shields.io/badge/connections-164-34a853)](https://trmnl.com/recipes?user_id=40325)
 [![Last update](https://img.shields.io/badge/updated-2026--10--16-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
 
 ## Table of Contents
 
-[<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/wba05uotdb3w00znj163pmx87d65" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#oil-price-tracker-wti-brent) [Oil Price Tracker (WTI/Brent)](#oil-price-tracker-wti-brent) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/jzx18bzr1s2hgwsqfs1ld35hqnt1" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#wikipedia-trending-articles) [Wikipedia trending articles](#wikipedia-trending-articles) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/66ohjpw2qky3zcwvju167wf7zra5" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#patent-drawings) [Patent drawings](#patent-drawings) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/gb6dapfoijwlkkde4p6uy5hp03pe" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#tmdb-random-movie) [TMDB random movie](#tmdb-random-movie) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/3qgtyb7nbj7opjhkxdmzwwqnpdaj" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#geek-almanac) [GEEK almanac](#geek-almanac) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/4z4kwnm17jdcaaoa88p11ary071s" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#souvenir-map) [Souvenir map](#souvenir-map) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/eucizzw761ilxjotteqzznh9q5uy" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#github-status) [GitHub Status](#github-status) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/uo7unbysicm1q9es0skmq09fyme6" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#amber-alert) [Amber alert](#amber-alert)
+[<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/wba05uotdb3w00znj163pmx87d65" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#oil-price-tracker-wti-brent) [Oil Price Tracker (WTI/Brent)](#oil-price-tracker-wti-brent) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/jzx18bzr1s2hgwsqfs1ld35hqnt1" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#wikipedia-trending-articles) [Wikipedia trending articles](#wikipedia-trending-articles) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/66ohjpw2qky3zcwvju167wf7zra5" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#patent-drawings) [Patent drawings](#patent-drawings) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/gb6dapfoijwlkkde4p6uy5hp03pe" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#tmdb-random-movie) [TMDB random movie](#tmdb-random-movie) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/3qgtyb7nbj7opjhkxdmzwwqnpdaj" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#geek-almanac) [GEEK almanac](#geek-almanac) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/4z4kwnm17jdcaaoa88p11ary071s" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#souvenir-map) [Souvenir map](#souvenir-map) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/eucizzw761ilxjotteqzznh9q5uy" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#github-status) [GitHub Status](#github-status) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/55tccuwb8y31330haufuqnwt9hb8" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#trmnl-creator-stats) [Trmnl-creator-stats](#trmnl-creator-stats) &nbsp;·&nbsp; [<img src="https://trmnl-public.s3.us-east-2.amazonaws.com/uo7unbysicm1q9es0skmq09fyme6" width="20" height="20" style="border-radius:6px;vertical-align:middle;">](#amber-alert) [Amber alert](#amber-alert)
 
 ## <a id="oil-price-tracker-wti-brent"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/wba05uotdb3w00znj163pmx87d65" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Oil Price Tracker (WTI/Brent)
 
@@ -80,6 +80,18 @@ GitHub Status shows the live operational state of all 11 GitHub services (Git, A
 [![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/447346) [![Partager](https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge)](https://raw.githubusercontent.com/nbbou81000/trmnl-recipes/main/share/447346.png)
 
 [![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/os8ua17vdd7dd1lx9pfz0mkp9vwq)](https://trmnl-public.s3.us-east-2.amazonaws.com/os8ua17vdd7dd1lx9pfz0mkp9vwq)
+
+## <a id="trmnl-creator-stats"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/55tccuwb8y31330haufuqnwt9hb8" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Trmnl-creator-stats
+
+[![Connections](https://img.shields.io/badge/connections-3-34a853)](https://trmnl.com/recipes/500496) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/500496)
+
+Track your own TRMNL recipes on your TRMNL: total connections (installs + forks), your rank among all recipe creators and how it moved this week, a 30-day curve, new connections per day, and every recipe's progress toward its next milestone, including the 50 connections of the Creator Fund.<br><br>
+Three displays: Overview, My recipes (one card per recipe with its screenshot, showing your top 8 on OG and top 9 on X) and All recipes (a compact list of every recipe you published).<br><br>
+Data comes from the <a href="https://nbbou81000.github.io/trmnl-leaderboard/">TRMNL Creator Leaderboard</a> and refreshes every hour. Available in English, French, German and Spanish, in every layout, on TRMNL OG and TRMNL X.
+
+[![Show it on TRMNL](https://img.shields.io/badge/Show%20it%20on-TRMNL-000000?style=for-the-badge)](https://trmnl.com/recipes/500496) [![Partager](https://img.shields.io/badge/📤%20Partager-Reddit%20%2F%20Discord-5865F2?style=for-the-badge)](https://raw.githubusercontent.com/nbbou81000/trmnl-recipes/main/share/500496.png)
+
+[![Screenshot](https://trmnl-public.s3.us-east-2.amazonaws.com/k3awc42ghpchpe1lqoj3rzidjziq)](https://trmnl-public.s3.us-east-2.amazonaws.com/k3awc42ghpchpe1lqoj3rzidjziq)
 
 ## <a id="amber-alert"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/uo7unbysicm1q9es0skmq09fyme6" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Amber alert
 
