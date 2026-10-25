@@ -1,8 +1,8 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-9-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-172-34a853)](https://trmnl.com/recipes?user_id=40325)
-[![Last update](https://img.shields.io/badge/updated-2026--10--24-grey)](#)
+[![Total Connections](https://img.shields.io/badge/connections-173-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Last update](https://img.shields.io/badge/updated-2026--10--25-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
 
@@ -22,7 +22,7 @@ Display the oil prices every 30 minutes (Brent Crude Oil Last Day Financial Futu
 
 ## <a id="wikipedia-trending-articles"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/jzx18bzr1s2hgwsqfs1ld35hqnt1" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Wikipedia trending articles
 
-[![Connections](https://img.shields.io/badge/connections-38-34a853)](https://trmnl.com/recipes/476387) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/476387)
+[![Connections](https://img.shields.io/badge/connections-37-34a853)](https://trmnl.com/recipes/476387) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/476387)
 
 Yesterday's most-viewed Wikipedia articles, in English, French, German or Spanish. Two display modes are available in the settings below. Thumbnail shows a dithered image of the top article alongside the ranking, plus a summary band with cumulative views and the day's sharpest riser. Trends drops the image and shows twelve articles instead, each with its change versus the previous day and a seven-day bar sparkline. Data comes from the official Wikimedia Pageviews API and refreshes daily. All labels follow the language you pick.<br><br>See yesterday&#39;s most-viewed Wikipedia articles right on your TRMNL. This plugin ranks the top trending pages by daily pageviews, with a language selector (English, French, German, or Spanish) set via a plugin custom field. Two display modes are available: a thumbnail view highlighting the #1 article with its image when one exists, or a trends view showing each article&#39;s rank change versus the previous day alongside a 7-day sparkline. Data and images are fetched by a scheduled GitHub Actions workflow and served as static JSON via raw.githubusercontent.com — no server, no API key, no hosting cost. Templates follow the TRMNL Framework&#39;s responsive components for both OG and X screen sizes. A fun way to keep track of what the internet is reading.
 
@@ -42,7 +42,7 @@ A random U.S. design patent drawing, refreshed on every update. Consoles, phones
 
 ## <a id="tmdb-random-movie"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/gb6dapfoijwlkkde4p6uy5hp03pe" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> TMDB random movie
 
-[![Connections](https://img.shields.io/badge/connections-16-34a853)](https://trmnl.com/recipes/393117) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/393117)
+[![Connections](https://img.shields.io/badge/connections-18-34a853)](https://trmnl.com/recipes/393117) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/393117)
 
 Ciné Poster shows a random movie poster pulled daily from TMDB, with optional info panel (synopsis, director, cast, rating, QR code to the movie's TMDB page). Filter by genre(s), decade(s) and minimum rating, choose FR or EN. <br/>Questions or bugs? <a href="https://github.com/nbbou81000" target="_blank">GitHub</a> or <a href="mailto:TON_EMAIL@exemple.com">email me</a>.
 
