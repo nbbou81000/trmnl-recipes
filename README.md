@@ -1,7 +1,7 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-9-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-176-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Total Connections](https://img.shields.io/badge/connections-177-34a853)](https://trmnl.com/recipes?user_id=40325)
 [![Last update](https://img.shields.io/badge/updated-2026--10--26-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
@@ -95,7 +95,7 @@ GitHub Status shows the live operational state of all 11 GitHub services (Git, A
 
 ## <a id="amber-alert"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/uo7unbysicm1q9es0skmq09fyme6" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Amber alert
 
-[![Connections](https://img.shields.io/badge/connections-1-34a853)](https://trmnl.com/recipes/453038) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/453038)
+[![Connections](https://img.shields.io/badge/connections-2-34a853)](https://trmnl.com/recipes/453038) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/453038)
 
 Live US AMBER Alerts, nationwide, with QR links to official info.
 
