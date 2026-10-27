@@ -1,7 +1,7 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-9-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-176-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Total Connections](https://img.shields.io/badge/connections-175-34a853)](https://trmnl.com/recipes?user_id=40325)
 [![Last update](https://img.shields.io/badge/updated-2026--10--27-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
@@ -73,7 +73,7 @@ Souvenir Map renders a poster-style, line-art street map of a random city somewh
 
 ## <a id="trmnl-creator-stats"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/55tccuwb8y31330haufuqnwt9hb8" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Trmnl-creator-stats
 
-[![Connections](https://img.shields.io/badge/connections-7-34a853)](https://trmnl.com/recipes/500496) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/500496)
+[![Connections](https://img.shields.io/badge/connections-6-34a853)](https://trmnl.com/recipes/500496) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/500496)
 
 Track your own TRMNL recipes on your TRMNL: total connections (installs + forks), your rank among all recipe creators and how it moved this week, a 30-day curve, new connections per day, and every recipe's progress toward its next milestone, including the 50 connections of the Creator Fund.<br><br>
 Three displays: Overview, My recipes (one card per recipe with its screenshot, showing your top 8 on OG and top 9 on X) and All recipes (a compact list of every recipe you published).<br><br>
