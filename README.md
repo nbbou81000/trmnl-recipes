@@ -1,8 +1,8 @@
 # Nico's TRMNL Recipes
 
 [![Recipes](https://img.shields.io/badge/recipes-9-1a73e8)](https://trmnl.com/recipes?user_id=40325)
-[![Total Connections](https://img.shields.io/badge/connections-179-34a853)](https://trmnl.com/recipes?user_id=40325)
-[![Last update](https://img.shields.io/badge/updated-2026--11--01-grey)](#)
+[![Total Connections](https://img.shields.io/badge/connections-180-34a853)](https://trmnl.com/recipes?user_id=40325)
+[![Last update](https://img.shields.io/badge/updated-2026--11--02-grey)](#)
 
 [What is TRMNL?](https://trmnl.com/)
 
@@ -32,7 +32,7 @@ Yesterday's most-viewed Wikipedia articles, in English, French, German or Spanis
 
 ## <a id="patent-drawings"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/66ohjpw2qky3zcwvju167wf7zra5" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Patent drawings
 
-[![Connections](https://img.shields.io/badge/connections-33-34a853)](https://trmnl.com/recipes/469103) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/469103)
+[![Connections](https://img.shields.io/badge/connections-34-34a853)](https://trmnl.com/recipes/469103) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/469103)
 
 A random U.S. design patent drawing, refreshed on every update. Consoles, phones, laptops, e-readers, cameras and other devices as their designers first filed them — pure line art, which is exactly what e-ink renders best. Drawings come from published U.S. design patents, government publications in the public domain. Roughly 10,300 drawings and growing.
 
@@ -62,7 +62,7 @@ Geek Almanac has two modes. <b>Ephemeride</b> shows a tech or geek event that ha
 
 ## <a id="souvenir-map"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/4z4kwnm17jdcaaoa88p11ary071s" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Souvenir map
 
-[![Connections](https://img.shields.io/badge/connections-11-34a853)](https://trmnl.com/recipes/387251) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/387251)
+[![Connections](https://img.shields.io/badge/connections-10-34a853)](https://trmnl.com/recipes/387251) [![Forks](https://img.shields.io/badge/forks-0-orange)](https://trmnl.com/recipes/387251)
 
 Souvenir Map renders a poster-style, line-art street map of a random city somewhere in the world, picked fresh every refresh from a dataset of ~34,000 cities. Map geometry comes live from OpenStreetMap. To complement the plugin, I created a small webpage displaying a map of all the cities that have appeared so far, along with various statistics : <a href="https://nbbou81000.github.io/trmnl-carte-souvenir/atlas.html" target="_blank">https://nbbou81000.github.io/trmnl-carte-souvenir/atlas.html</a>
 
@@ -73,7 +73,7 @@ Souvenir Map renders a poster-style, line-art street map of a random city somewh
 
 ## <a id="trmnl-creator-stats"></a><img src="https://trmnl-public.s3.us-east-2.amazonaws.com/55tccuwb8y31330haufuqnwt9hb8" width="32" height="32" style="border-radius:6px;vertical-align:middle;"> Trmnl-creator-stats
 
-[![Connections](https://img.shields.io/badge/connections-7-34a853)](https://trmnl.com/recipes/500496) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/500496)
+[![Connections](https://img.shields.io/badge/connections-8-34a853)](https://trmnl.com/recipes/500496) [![Forks](https://img.shields.io/badge/forks-1-orange)](https://trmnl.com/recipes/500496)
 
 Track your own TRMNL recipes on your TRMNL: total connections (installs + forks), your rank among all recipe creators and how it moved this week, a 30-day curve, new connections per day, and every recipe's progress toward its next milestone, including the 50 connections of the Creator Fund.<br><br>
 Three displays: Overview, My recipes (one card per recipe with its screenshot, showing your top 8 on OG and top 9 on X) and All recipes (a compact list of every recipe you published).<br><br>
